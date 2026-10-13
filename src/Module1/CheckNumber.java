@@ -1,3 +1,4 @@
+package Module1;
 
 @FunctionalInterface
 interface CheckNumber1 {
